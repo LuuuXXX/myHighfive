@@ -1,0 +1,13 @@
+{
+    "groups":{
+        "all": ["LuuuXXX"]
+    },
+    "dirs":{},
+    "mentions": {
+        "src": {
+            "message": "Source code was changed.",
+            "reviewers": ["LuuuXXX"]
+        }
+    },
+    "new_pr_labels": [""]
+}
